@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "blog"
+		},
+		{
+			"path": "mysite"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
